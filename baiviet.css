@@ -1,0 +1,24 @@
+img {
+    width: 500px !important;
+}
+
+table {
+    width: 500px;
+    border: none;
+}
+table > tr > td > div{
+    background:#eeeeee;
+    border:1px solid #cccccc;
+    color:#3498db;
+    font-size:16px;
+    font-style:normal !important;
+    padding:5px 10px;
+    text-align:center
+}
+
+p.font{
+    color:#000000;
+    font-size:18px;
+    font-family: "Times New Roman";
+    text-align:justify
+}
